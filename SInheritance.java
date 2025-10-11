@@ -30,7 +30,7 @@ class child extends parent
   
 }
 
-public class Inheritance
+public class SInheritance
 {
   public static void main(String[] args)
   {
