@@ -7,6 +7,7 @@ JAVA Assignment
 5. Interfaces Write a Java program with an interface Playable having a method play(). Implement this interface in classes Cricket and Football. Call the play() method to display the type of game being played.
 6. Exception Handling Write a program to demonstrate Exception Handling by taking two numbers as input and performing division. Handle the ArithmeticException when the denominator is zero and display an error message instead of crashing.
 7. File Handling Write a program to demonstrate File Handling in Java. Create a text file named sample.txt, write some content into it, then read the file and display its contents on the console.
+
 C assignment 
 1. Using structures, arrays, and functions to store, calculate, and display student grades.
 2. Implement file handling to add, search, update, and delete book records
