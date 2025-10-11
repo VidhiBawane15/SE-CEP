@@ -44,7 +44,7 @@ class toys extends child
   }
 }
     
-public class Inheritance
+public class MInheritance
 {
   public static void main(String[] args)
   {
